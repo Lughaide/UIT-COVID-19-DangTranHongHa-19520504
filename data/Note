@@ -1,0 +1,3 @@
+Em đã thực hiện vài thay đổi với dữ liệu:
+- Các dòng parse ra "Bệnh viện Bệnh nhiệt đới Trung ương" được đổi thành "Hà Nội" (địa điểm của bệnh viện) để khớp dữ liệu.
+- Bổ sung dữ liệu cho các phần không parse được (như vào 12:00 10/05/2021) -> được đưa vào thủ công.
